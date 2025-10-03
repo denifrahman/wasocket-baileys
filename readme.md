@@ -21,8 +21,8 @@ Make sure you have **Node.js** and **npm** installed.
 ### Clone Repository And Test Local
 
 ```bash
-git clone https://github.com/denifrahman/whatsapp-baileys.git
-cd whatsapp-baileys
+git clone https://github.com/denifrahman/wasocket-baileys
+cd wasocket-baileys
 ```
 
 ### Install Dependencies
@@ -55,7 +55,7 @@ npm run start:example
 ## 📂 Project Structure
 
 ```
-whatsapp-baileys/
+wasocket-baileys/
 ├── src/               # Main TypeScript source code
 │   └── baileys.ts
 │   └── utils.ts       # Library entry point
