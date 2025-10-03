@@ -1,6 +1,6 @@
 {
   "name": "wasocket-baileys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for managing WhatsApp multi-sessions with Baileys, supporting chat, file, and media handling.",
   "main": "dist/baileys.js",
   "types": "dist/baileys.d.ts",
