@@ -11,6 +11,14 @@
       "types": "./dist/baileys.d.ts"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denifrahman/wasocket-baileys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denifrahman/wasocket-baileys/issues"
+  },
+  "homepage": "https://github.com/denifrahman/wasocket-baileys#readme",
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf dist",
